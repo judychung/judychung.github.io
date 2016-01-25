@@ -2,6 +2,11 @@ body {
   color: #FF69B4;
   text-align: center;
 }
+
 .tab {
   color: #69fffb;
+}
+
+.nav-pills {
+  color: #00f010;
 }
